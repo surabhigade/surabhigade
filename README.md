@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there! 👋 I'm Surabhi Gade
 
-<!--
-**surabhigade/surabhigade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about the intersection of **Robotics**, **Computer Vision**, and **Deep Learning**, and I thrive on creating intelligent systems that make a difference.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+I’m currently focused on developing **Computer Vision Applications**, exploring innovative ways to apply computer vision in real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Let's Collaborate
+I’m always open to exciting collaborations on projects related to:
+
+- **Computer Vision & Deep Learning:** Building intelligent systems that can see and understand the world.
+- **Robotics:** Developing control systems, SLAM, and other autonomous solutions.
+
+### 😄 Pronouns
+She/Her
+
+### 📫 How to Reach Me
+- **Email:** [surabhigade98@gmail.com](mailto:surabhigade98@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](your-linkedin-url)
+- **Portfolio:** [Portfolio Website](your-portfolio-url)
+
+Thank you for visiting my profile! I look forward to connecting and collaborating on exciting projects!
