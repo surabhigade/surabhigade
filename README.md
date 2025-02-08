@@ -1,9 +1,7 @@
 ## Hi there! 👋 I'm Surabhi Gade
 
-Welcome to my GitHub profile! I'm passionate about the intersection of **Robotics**, **Computer Vision**, and **Deep Learning**, and I thrive on creating intelligent systems that make a difference.
+Welcome to my GitHub profile! I'm passionate about the intersection of **Robotics**, **Reinforcement  Learning**, **Computer Vision**, and **Deep Learning**, and I thrive on creating intelligent systems that make a difference.
 
-### 🔭 Current Projects
-I’m currently focused on developing **Computer Vision Applications**, exploring innovative ways to apply computer vision in real-world scenarios.
 
 ### 💡 Let's Collaborate
 I’m always open to exciting collaborations on projects related to:
