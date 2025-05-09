@@ -16,6 +16,6 @@ She/Her
 ### 📫 How to Reach Me
 - **Email:** [surabhigade98@gmail.com](mailto:surabhigade98@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/surabhi-gade/)
-- **Portfolio:** [Portfolio Website](https://surabhigade98.wixsite.com/surabhi-gade)
+- **Portfolio:** [Portfolio Website]((https://gadesu.wixsite.com/gadesurabhi))
 
 Thank you for visiting my profile! I look forward to connecting and collaborating on exciting projects!
